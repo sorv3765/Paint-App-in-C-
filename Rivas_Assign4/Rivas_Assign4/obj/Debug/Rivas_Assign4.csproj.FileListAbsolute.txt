@@ -1,0 +1,50 @@
+C:\Users\Shaniel\source\repos\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.exe.config
+C:\Users\Shaniel\source\repos\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.exe
+C:\Users\Shaniel\source\repos\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.pdb
+C:\Users\Shaniel\source\repos\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csprojAssemblyReference.cache
+C:\Users\Shaniel\source\repos\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.Properties.Resources.resources
+C:\Users\Shaniel\source\repos\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csproj.GenerateResource.cache
+C:\Users\Shaniel\source\repos\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csproj.CoreCompileInputs.cache
+C:\Users\Shaniel\source\repos\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.exe
+C:\Users\Shaniel\source\repos\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.pdb
+C:\Users\Shaniel\source\repos\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.Color.resources
+C:\Users\Yianni's PC\Documents\CSCI 473\Assignments\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.exe.config
+C:\Users\Yianni's PC\Documents\CSCI 473\Assignments\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.exe
+C:\Users\Yianni's PC\Documents\CSCI 473\Assignments\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.pdb
+C:\Users\Yianni's PC\Documents\CSCI 473\Assignments\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csprojAssemblyReference.cache
+C:\Users\Yianni's PC\Documents\CSCI 473\Assignments\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.Color.resources
+C:\Users\Yianni's PC\Documents\CSCI 473\Assignments\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.Properties.Resources.resources
+C:\Users\Yianni's PC\Documents\CSCI 473\Assignments\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csproj.GenerateResource.cache
+C:\Users\Yianni's PC\Documents\CSCI 473\Assignments\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csproj.CoreCompileInputs.cache
+C:\Users\Yianni's PC\Documents\CSCI 473\Assignments\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.exe
+C:\Users\Yianni's PC\Documents\CSCI 473\Assignments\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.pdb
+D:\Shaniel\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.exe.config
+D:\Shaniel\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.exe
+D:\Shaniel\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.pdb
+D:\Shaniel\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csprojAssemblyReference.cache
+D:\Shaniel\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.Color.resources
+D:\Shaniel\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.Properties.Resources.resources
+D:\Shaniel\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csproj.GenerateResource.cache
+D:\Shaniel\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csproj.CoreCompileInputs.cache
+D:\Shaniel\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.exe
+D:\Shaniel\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.pdb
+D:\Shaniel\CSCI 473\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.exe.config
+D:\Shaniel\CSCI 473\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.exe
+D:\Shaniel\CSCI 473\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.pdb
+D:\Shaniel\CSCI 473\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csprojAssemblyReference.cache
+D:\Shaniel\CSCI 473\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.Color.resources
+D:\Shaniel\CSCI 473\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.Properties.Resources.resources
+D:\Shaniel\CSCI 473\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csproj.GenerateResource.cache
+D:\Shaniel\CSCI 473\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csproj.CoreCompileInputs.cache
+D:\Shaniel\CSCI 473\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.exe
+D:\Shaniel\CSCI 473\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.pdb
+D:\Shaniel\CSCI 473 C#\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.exe.config
+D:\Shaniel\CSCI 473 C#\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.exe
+D:\Shaniel\CSCI 473 C#\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\bin\Debug\Rivas_Assign4.pdb
+D:\Shaniel\CSCI 473 C#\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csprojAssemblyReference.cache
+D:\Shaniel\CSCI 473 C#\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.Color.resources
+D:\Shaniel\CSCI 473 C#\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.Properties.Resources.resources
+D:\Shaniel\CSCI 473 C#\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csproj.GenerateResource.cache
+D:\Shaniel\CSCI 473 C#\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.csproj.CoreCompileInputs.cache
+D:\Shaniel\CSCI 473 C#\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.exe
+D:\Shaniel\CSCI 473 C#\Rivas_Assign4\Rivas_Assign4\Rivas_Assign4\obj\Debug\Rivas_Assign4.pdb
